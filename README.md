@@ -1,2 +1,2 @@
-workshop-club
+Workshop Guild's Github Page
 =============
